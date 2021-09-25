@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.jokeContainer{
+  height: 75px;
+  font-family: 'Times New Roman', Times, serif;
+  color:rgb(117, 117, 219);
+  background-color: palegreen;
+  font-size: 25px;
+}
 
 .App-logo {
   height: 40vmin;
@@ -15,7 +22,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  height: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
